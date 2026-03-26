@@ -16,11 +16,11 @@ Senior full-stack developer with 13 years of experience building web application
 
 ## Stack
 
-**Backend:** C#/.NET Core, Laravel/PHP, Python, Node.js, C/C++
-**Frontend:** React, Vue.js, TypeScript, Tailwind CSS, Livewire, Inertia.js
-**Data:** PostgreSQL, SQL Server, Redis, Typesense, ChromaDB
-**AI:** Claude Code, Cursor, Ollama, vLLM, RAG pipelines, GPU inference (CUDA)
-**Infrastructure:** Linux, Docker, AWS, NGINX, Cloudflare, GitHub Actions
+- **Backend:** C#/.NET Core, Laravel/PHP, Python, Node.js, C/C++
+- **Frontend:** React, Vue.js, TypeScript, Tailwind CSS, Livewire, Inertia.js
+- **Data:** PostgreSQL, SQL Server, Redis, Typesense, ChromaDB
+- **AI:** Claude Code, Cursor, Ollama, vLLM, RAG pipelines, GPU inference (CUDA)
+- **Infrastructure:** Linux, Docker, AWS, NGINX, Cloudflare, GitHub Actions
 
 ## Background
 
