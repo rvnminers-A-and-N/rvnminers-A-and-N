@@ -5,7 +5,7 @@ Senior full-stack developer with 13 years of experience building web application
 
 - **countylocal.net (meadecountylocal.com for now)** — Hyperlocal community platform (Laravel 12, React 19, PostgreSQL, Typesense, Redis, Laravel Reverb, Cloudflare Workers)
 - **Private AI Infrastructure** — On-premises LLM deployments for businesses using Ollama/vLLM, RAG pipelines with vector databases, GPU-accelerated inference on commodity hardware
-- **SatoriP2P** - A libp2p based solution for the Satori AI prediction engine (Utilizes Chronos and XGBoost) network that relies on peers instead of a central instance, allowing for time dependent predictions of real-world data across a distributed network of peers.
+- **SatoriP2P/Satori-lite** - A libp2p based solution for the Satori AI prediction engine (Utilizes Chronos and XGBoost) network that relies on peers instead of a central instance, allowing for time dependent predictions of real-world data across a distributed network of peers.
 
 ## What I've Built
 
