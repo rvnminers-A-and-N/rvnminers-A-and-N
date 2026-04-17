@@ -1,47 +1,64 @@
-# Austin L.
-Senior full-stack developer with 13 years of experience building web applications, blockchain infrastructure, and AI systems. Professional since age 16. Terminal-native Linux developer.
+# Austin Lobe
 
-## What I'm Building
+**Senior Full-Stack Developer** · **Blockchain Core Contributor** · **AI Infrastructure Engineer**
 
-- **countylocal.net (meadecountylocal.com for now)** — Hyperlocal community platform (Laravel 12, React 19, PostgreSQL, Typesense, Redis, Laravel Reverb, Cloudflare Workers)
-- **Private AI Infrastructure** — On-premises LLM deployments for businesses using Ollama/vLLM, RAG pipelines with vector databases, GPU-accelerated inference on commodity hardware
-- **SatoriP2P/Satori-lite** — A libp2p based solution for the Satori AI prediction engine (Utilizes Chronos and XGBoost) network that relies on peers instead of a central instance, allowing for time dependent predictions of real-world data across a distributed network of peers.
+13 years building software. Professional since 16. Terminal-native on Linux.
 
-## What I've Built
+[![Email](https://img.shields.io/badge/austin%40echelonts.net-0A0A0A?style=flat-square&logo=maildotru&logoColor=white)](mailto:austin@echelonts.net)
+[![GitHub](https://img.shields.io/badge/rvnminers--A--and--N-0A0A0A?style=flat-square&logo=github&logoColor=white)](https://github.com/rvnminers-A-and-N)
 
-- **Ravencoin/KawPow Ecosystem** — Core contributor maintaining consensus-critical C/C++ codebase, Python libraries, ElectrumX servers, and cross-platform Electrum wallet builds
-- **Satori Blockchain** — Full cryptocurrency fork through testnet: genesis block, airdrop to ~29K holders, stratum mining proxy, wallet builds
-- **python-evrmorelib** — Python library for Evrmore blockchain: UTXO management, transaction construction, Base58Check encoding
-- **Web Applications** — ASP.NET Core APIs, Laravel TALL stack apps, Node.js services, Unity multiplayer systems
+---
 
-## Stack
+### What I'm building
 
-- **Backend:** C#/.NET Core, Laravel/PHP, Python, Node.js, C/C++
-- **Frontend:** React, Vue.js, TypeScript, Tailwind CSS, Livewire, Inertia.js
-- **Data:** PostgreSQL, SQL Server, Redis, Typesense, ChromaDB
-- **AI:** Claude Code, Cursor, Ollama, vLLM, RAG pipelines, GPU inference (CUDA)
-- **Infrastructure:** Linux, Docker, AWS, NGINX, Cloudflare, GitHub Actions
+**Private AI infrastructure** — On-premises LLM deployments for small businesses. Fully offline inference using Ollama/vLLM, RAG pipelines with vector databases, GPU-accelerated on commodity server hardware. No data leaves the building.
 
-## Background
+**[Sunroom CRM](https://sunroomcrm.net)** — Dual-stack CRM built to demonstrate full technical breadth. .NET Core/C#/SQL Server backend + Laravel/PostgreSQL backend, with frontends in Angular, React, Vue, and Blazor across six repos:
+[Angular](https://github.com/rvnminers-A-and-N/sunroom-crm-angular) · [React](https://github.com/rvnminers-A-and-N/sunroom-crm-react) · [Vue](https://github.com/rvnminers-A-and-N/sunroom-crm-vue) · [Laravel API](https://github.com/rvnminers-A-and-N/sunroom-crm-laravel) · [Blazor](https://github.com/rvnminers-A-and-N/sunroom-crm-blazor) · [.NET API](https://github.com/rvnminers-A-and-N/sunroom-crm-dotnet)
 
-Dual B.S. in ACS Chemistry and Physics from Western Kentucky University (magna cum laude). Former student researcher running molecular dynamics simulations on HPC clusters. That's where the GPU computing obsession started.
+**[countylocal.net](https://meadecountylocal.com)** — Hyperlocal community platform with wildcard subdomain architecture designed to scale county-by-county. Laravel 12 · React 19 · PostgreSQL · Typesense · Redis · Laravel Reverb · [MCL Repo](https://github.com/rvnminers-A-and-N/meade_county_local)
 
-## Contact
+---
 
-austin@echelonts.net
+### What I've built
 
-<!--
-## Hi there 👋
-**rvnminers-A-and-N/rvnminers-A-and-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project | What it is |
+|---|---|
+| **Ravencoin / KawPow ecosystem** | Core contributor maintaining consensus-critical C/C++ codebase, Python libraries, ElectrumX servers, and cross-platform Electrum wallet builds |
+| **Satori blockchain** | Full cryptocurrency fork through testnet — genesis block, airdrop to ~29K holders, stratum mining proxy, wallet builds (AppImage + Windows) |
+| **SatoriP2P / Satori-lite** | libp2p-based decentralized P2P layer for the Satori AI prediction engine — Chronos + XGBoost models across a distributed peer network |
+| **python-evrmorelib** | Python library for Evrmore blockchain: UTXO management, transaction construction, Base58Check encoding |
+| **Enterprise web apps** | ASP.NET Core APIs, Laravel TALL stack applications, Node.js services, Unity multiplayer game systems, UWP kiosk applications |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+```
+backend      C#/.NET Core · Laravel/PHP · Python · Node.js · C/C++
+frontend     React · Vue.js · TypeScript · Tailwind CSS · Livewire · Inertia.js
+data         PostgreSQL · SQL Server · Redis · Typesense · ChromaDB · pgvector
+ai/ml        Claude Code · Ollama · vLLM · RAG pipelines · CUDA inference
+infra        Linux · Docker · AWS · NGINX · Cloudflare · Proxmox · GitHub Actions
+hardware     Dell PowerEdge servers · GPU rigs · Board-level electronics repair
+```
+
+---
+
+### Background
+
+Dual B.S. in **ACS Chemistry** and **Physics** from Western Kentucky University *(magna cum laude)*. Former student researcher running AmberMD molecular dynamics simulations on HPC clusters — modeling rhodopsin protein conformations and SO₂/water interfaces. That's where the obsession with GPU computing started.
+
+Owner of **Echelon Technology Solutions** — IT, web development, and AI consulting in Meade County, Kentucky.
+
+---
+
+<details>
+<summary><strong>More about how I work</strong></summary>
+<br>
+
+I build from the terminal. Claude Code is my primary AI development workflow. I run my own inference servers on Dell PowerEdge hardware. I mine cryptocurrency on rigs I built and maintain. When a client's PS5 needs a new HDMI port, I do the board-level swap with liquid metal reapplication.
+
+I've been writing code since I was 12 and charging for it since I was 16. I've touched everything from molecular dynamics on supercomputer clusters to WordPress plugins to blockchain consensus algorithms. The thread connecting all of it is that I'd rather understand the whole stack than depend on someone else's abstraction.
+
+</details>
