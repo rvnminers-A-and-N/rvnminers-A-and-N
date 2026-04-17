@@ -39,7 +39,7 @@ backend      C#/.NET Core · Laravel/PHP · Python · Node.js · C/C++
 frontend     React · Vue.js · TypeScript · Tailwind CSS · Livewire · Inertia.js
 data         PostgreSQL · SQL Server · Redis · Typesense · ChromaDB · pgvector
 ai/ml        Claude Code · Ollama · vLLM · RAG pipelines · CUDA inference
-infra        Linux · Docker · AWS · NGINX · Cloudflare · Proxmox · GitHub Actions
+infra        Linux · Docker · AWS · NGINX · Apache · Cloudflare · Proxmox · GitHub Actions
 hardware     Dell PowerEdge servers · GPU rigs · Board-level electronics repair
 ```
 
