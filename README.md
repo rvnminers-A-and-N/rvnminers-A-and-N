@@ -49,7 +49,7 @@ hardware     Dell PowerEdge servers · GPU rigs · Board-level electronics repai
 
 Dual B.S. in **ACS Chemistry** and **Physics** from Western Kentucky University *(magna cum laude)*. Former student researcher running AmberMD molecular dynamics simulations on HPC clusters — modeling rhodopsin protein conformations and SO₂/water interfaces. That's where the obsession with GPU computing started.
 
-Owner of **Echelon Technology Solutions** — IT, web development, and AI consulting in Meade County, Kentucky.
+Co-Owner of **Echelon Technology Solutions, LLC** — IT, web development, and AI consulting in Meade County, Kentucky.
 
 ---
 
