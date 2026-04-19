@@ -27,7 +27,7 @@
 | **Ravencoin / KawPow ecosystem** | Core contributor maintaining consensus-critical C/C++ codebase, Python libraries, ElectrumX servers, and cross-platform Electrum wallet builds |
 | **Satori blockchain** | Full cryptocurrency fork through testnet — genesis block, airdrop to ~29K holders, stratum mining proxy, wallet builds (AppImage + Windows) |
 | **SatoriP2P / Satori-lite** | libp2p-based decentralized P2P layer for the Satori AI prediction engine — Chronos + XGBoost models across a distributed peer network |
-| **python-evrmorelib** | Python library for Evrmore blockchain: UTXO management, transaction construction, Base58Check encoding |
+| **python-evrmorelib / python-ravencoinlib / python-satorilib** | Python library enhancements from Ravencoin to Evrmore and Satori blockchains: UTXO management, transaction construction, Base58Check encoding |
 | **Enterprise web apps** | ASP.NET Core APIs, Laravel TALL stack applications, Node.js services, Unity multiplayer game systems, UWP kiosk applications |
 
 ---
