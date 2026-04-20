@@ -59,6 +59,6 @@ Co-Owner of **Echelon Technology Solutions, LLC** — IT, web development, and A
 
 I build from the terminal. Claude Code is my primary AI development workflow. I run my own inference servers on Dell PowerEdge hardware. I mine cryptocurrency on rigs I built and maintain. When a client's PS5 needs a new HDMI port, I do the board-level swap with liquid metal reapplication.
 
-I've been writing code since I was 12 and charging for it since I was 16. I've touched everything from molecular dynamics on supercomputer clusters to WordPress plugins to blockchain consensus algorithms. The thread connecting all of it is that I'd rather understand the whole stack than depend on someone else's abstraction.
+I've been writing code since I was 12 and charging for it since I was 16. I've touched everything from molecular dynamics on supercomputer clusters to WordPress plugins to blockchain consensus algorithms. The thread connecting all of it is that I'd rather understand the whole stack than depend on someone else's abstraction. There isn't a tech challenge that I am not willing to give my best efforts, I am a strong believe we learn our best through solving new problems!
 
 </details>
