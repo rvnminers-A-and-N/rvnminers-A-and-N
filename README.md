@@ -16,7 +16,7 @@
 **[Sunroom CRM](https://sunroomcrm.net)** — Dual-stack CRM built to demonstrate full technical breadth. .NET Core/C#/SQL Server backend + Laravel/PostgreSQL backend, with frontends in Angular, React, Vue, and Blazor across six repos:
 [Angular](https://github.com/rvnminers-A-and-N/sunroom-crm-angular) · [React](https://github.com/rvnminers-A-and-N/sunroom-crm-react) · [Vue](https://github.com/rvnminers-A-and-N/sunroom-crm-vue) · [Laravel API](https://github.com/rvnminers-A-and-N/sunroom-crm-laravel) · [Blazor](https://github.com/rvnminers-A-and-N/sunroom-crm-blazor) · [.NET API](https://github.com/rvnminers-A-and-N/sunroom-crm-dotnet)
 
-**[countylocal.net](https://meadecountylocal.com)** — Hyperlocal community platform with wildcard subdomain architecture designed to scale county-by-county. Laravel 12 · React 19 · PostgreSQL · Typesense · Redis · Laravel Reverb · [MCL Repo](https://github.com/rvnminers-A-and-N/meade_county_local)
+**[countylocal.net](https://meadecountylocal.com)** — Hyperlocal community platform with wildcard subdomain architecture designed to scale county-by-county. Laravel 12 · React 19 · PostgreSQL · Typesense · Redis · Laravel Reverb · [Meade County Local Repo](https://github.com/rvnminers-A-and-N/meade_county_local)
 
 ---
 
